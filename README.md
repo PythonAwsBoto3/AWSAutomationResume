@@ -1,0 +1,2 @@
+# AWSAutomationResume
+Simply resume points
