@@ -1,0 +1,3 @@
+Created API Gateways to start,stop and to know the status of instances.
+Created CloudWatch events to take backupd and to delete old logs of differnet applications.
+Created Cloudwatch events to take snapshots of ec2,ebs,RDBMS.
